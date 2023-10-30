@@ -12,7 +12,7 @@ To use the Number Test App, you need to have Flutter and Dart installed on your 
 The default number to be tested is set to 12. You can change the `number` variable in the `_MyHomePageState` class to test a different number.
 
 ```dart
-var number = 12; // Change this variable to test a different number
+var number = 7; // Change this variable to test a different number
 ```
 ### Running the Tests
 When you run the app, it automatically tests the input number for the following properties:
